@@ -1,0 +1,391 @@
+Customer_ID,Account_Type,Balance,Status,Created_At
+1,Savings,50000,Active,2/1/2024
+1,Current,125000,Active,2/1/2024
+2,Savings,82000,Active,3/10/2024
+3,Savings,60000,Active,3/12/2024
+4,Savings,40000,Active,2/18/2024
+4,Fixed Deposit,300000,Active,3/1/2024
+5,Current,150000,Inactive,4/15/2024
+6,Savings,95000,Active,2/20/2024
+7,Savings,45000,Active,3/21/2024
+8,Savings,25000,Active,4/12/2024
+8,Current,175000,Active,4/12/2024
+9,Savings,5000,Active,3/25/2024
+10,Savings,120000,Active,4/2/2024
+10,Fixed Deposit,500000,Active,4/2/2024
+11,Savings,85000,Active,3/18/2024
+12,Current,130000,Active,4/30/2024
+13,Savings,45000,Active,4/20/2024
+14,Savings,70000,Active,6/11/2024
+15,Current,90000,Active,3/28/2024
+15,Savings,60000,Active,3/28/2024
+16,Savings,52000,Active,4/10/2024
+17,Fixed Deposit,250000,Active,2/15/2024
+18,Savings,35000,Active,3/12/2024
+18,Current,120000,Active,3/12/2024
+19,Savings,80000,Active,3/20/2024
+20,Savings,47000,Active,4/5/2024
+21,Current,110000,Active,3/25/2024
+21,Savings,30000,Active,3/25/2024
+22,Savings,65000,Active,4/8/2024
+23,Savings,55000,Active,4/11/2024
+24,Savings,72000,Active,5/1/2024
+25,Current,100000,Active,4/22/2024
+25,Savings,40000,Active,4/22/2024
+26,Savings,33000,Active,3/30/2024
+27,Fixed Deposit,200000,Active,3/15/2024
+28,Savings,47000,Active,4/2/2024
+28,Current,95000,Active,4/2/2024
+29,Savings,55000,Active,4/18/2024
+30,Savings,61000,Active,5/10/2024
+31,Savings,43000,Active,3/22/2024
+31,Current,120000,Active,3/22/2024
+32,Savings,75000,Active,4/9/2024
+33,Savings,82000,Active,3/27/2024
+34,Savings,69000,Active,4/15/2024
+34,Fixed Deposit,300000,Active,4/15/2024
+35,Savings,47000,Active,5/5/2024
+36,Current,85000,Active,4/18/2024
+37,Savings,39000,Active,3/30/2024
+38,Savings,62000,Active,4/12/2024
+38,Current,125000,Active,4/12/2024
+39,Savings,51000,Active,3/28/2024
+40,Savings,78000,Active,4/3/2024
+41,Savings,42000,Active,3/26/2024
+41,Current,105000,Active,3/26/2024
+42,Savings,67000,Active,4/7/2024
+43,Fixed Deposit,150000,Active,3/18/2024
+44,Savings,58000,Active,4/2/2024
+45,Savings,46000,Active,3/20/2024
+45,Current,90000,Active,3/20/2024
+46,Savings,72000,Active,4/9/2024
+47,Savings,51000,Active,3/27/2024
+48,Savings,68000,Active,4/10/2024
+48,Current,110000,Active,4/10/2024
+49,Savings,53000,Active,4/1/2024
+50,Savings,45000,Active,3/28/2024
+50,Fixed Deposit,200000,Active,3/28/2024
+51,Savings,62000,Active,4/12/2024
+52,Current,95000,Active,4/5/2024
+53,Savings,71000,Active,3/31/2024
+54,Savings,49000,Active,4/14/2024
+55,Savings,80000,Active,4/3/2024
+55,Current,100000,Active,4/3/2024
+56,Savings,55000,Active,3/29/2024
+57,Fixed Deposit,250000,Active,3/22/2024
+58,Savings,47000,Active,4/6/2024
+58,Current,95000,Active,4/6/2024
+59,Savings,61000,Active,3/30/2024
+60,Savings,75000,Active,4/11/2024
+61,Savings,43000,Active,3/25/2024
+61,Current,120000,Active,3/25/2024
+62,Savings,72000,Active,4/8/2024
+63,Savings,81000,Active,3/26/2024
+64,Savings,68000,Active,4/16/2024
+64,Fixed Deposit,300000,Active,4/16/2024
+65,Savings,47000,Active,5/6/2024
+66,Current,85000,Active,4/19/2024
+67,Savings,39000,Active,3/31/2024
+68,Savings,62000,Active,4/13/2024
+68,Current,125000,Active,4/13/2024
+69,Savings,51000,Active,3/29/2024
+70,Savings,78000,Active,4/4/2024
+71,Savings,62000,Active,3/27/2024
+71,Current,110000,Active,3/27/2024
+72,Savings,54000,Active,4/5/2024
+73,Fixed Deposit,200000,Active,3/20/2024
+74,Savings,48000,Active,4/8/2024
+75,Savings,46000,Active,3/22/2024
+75,Current,95000,Active,3/22/2024
+76,Savings,73000,Active,4/12/2024
+77,Savings,52000,Active,3/29/2024
+78,Savings,69000,Active,4/11/2024
+78,Current,115000,Active,4/11/2024
+79,Savings,54000,Active,4/3/2024
+80,Savings,47000,Active,3/30/2024
+80,Fixed Deposit,220000,Active,3/30/2024
+81,Savings,63000,Active,4/14/2024
+82,Current,98000,Active,4/6/2024
+83,Savings,72000,Active,4/1/2024
+84,Savings,50000,Active,4/17/2024
+85,Savings,81000,Active,4/5/2024
+85,Current,102000,Active,4/5/2024
+86,Savings,56000,Active,3/31/2024
+87,Fixed Deposit,255000,Active,3/24/2024
+88,Savings,48000,Active,4/7/2024
+88,Current,97000,Active,4/7/2024
+89,Savings,62000,Active,4/1/2024
+90,Savings,76000,Active,4/13/2024
+91,Savings,44000,Active,3/28/2024
+91,Current,122000,Active,3/28/2024
+92,Savings,73000,Active,4/9/2024
+93,Savings,82000,Active,3/27/2024
+94,Savings,69000,Active,4/16/2024
+94,Fixed Deposit,310000,Active,4/16/2024
+95,Savings,48000,Active,5/7/2024
+96,Current,87000,Active,4/20/2024
+97,Savings,40000,Active,4/1/2024
+98,Savings,63000,Active,4/14/2024
+98,Current,127000,Active,4/14/2024
+99,Savings,52000,Active,3/30/2024
+100,Savings,79000,Active,4/5/2024
+101,Savings,65000,Active,4/2/2024
+101,Current,105000,Active,4/2/2024
+102,Savings,54000,Active,4/10/2024
+103,Fixed Deposit,210000,Active,3/25/2024
+104,Savings,49000,Active,4/9/2024
+105,Savings,47000,Active,3/23/2024
+105,Current,97000,Active,3/23/2024
+106,Savings,74000,Active,4/13/2024
+107,Savings,53000,Active,3/30/2024
+108,Savings,70000,Active,4/12/2024
+108,Current,118000,Active,4/12/2024
+109,Savings,55000,Active,4/4/2024
+110,Savings,48000,Active,3/31/2024
+110,Fixed Deposit,225000,Active,3/31/2024
+111,Savings,64000,Active,4/15/2024
+112,Current,100000,Active,4/7/2024
+113,Savings,73000,Active,4/2/2024
+114,Savings,51000,Active,4/18/2024
+115,Savings,82000,Active,4/6/2024
+115,Current,104000,Active,4/6/2024
+116,Savings,57000,Active,4/1/2024
+117,Fixed Deposit,260000,Active,3/26/2024
+118,Savings,49000,Active,4/8/2024
+118,Current,99000,Active,4/8/2024
+119,Savings,63000,Active,4/2/2024
+120,Savings,77000,Active,4/14/2024
+121,Savings,45000,Active,3/29/2024
+121,Current,124000,Active,3/29/2024
+122,Savings,74000,Active,4/10/2024
+123,Savings,83000,Active,3/28/2024
+124,Savings,70000,Active,4/17/2024
+124,Fixed Deposit,320000,Active,4/17/2024
+125,Savings,49000,Active,5/8/2024
+126,Current,88000,Active,4/21/2024
+127,Savings,41000,Active,4/2/2024
+128,Savings,64000,Active,4/15/2024
+128,Current,130000,Active,4/15/2024
+129,Savings,53000,Active,4/1/2024
+130,Savings,80000,Active,4/6/2024
+131,Savings,66000,Active,4/3/2024
+131,Current,107000,Active,4/3/2024
+132,Savings,55000,Active,4/11/2024
+133,Fixed Deposit,215000,Active,3/26/2024
+134,Savings,50000,Active,4/10/2024
+135,Savings,48000,Active,3/24/2024
+135,Current,98000,Active,3/24/2024
+136,Savings,75000,Active,4/14/2024
+137,Savings,54000,Active,3/31/2024
+138,Savings,71000,Active,4/13/2024
+138,Current,120000,Active,4/13/2024
+139,Savings,56000,Active,4/5/2024
+140,Savings,49000,Active,4/1/2024
+140,Fixed Deposit,230000,Active,4/1/2024
+141,Savings,65000,Active,4/16/2024
+142,Current,102000,Active,4/8/2024
+143,Savings,74000,Active,4/3/2024
+144,Savings,52000,Active,4/19/2024
+145,Savings,83000,Active,4/7/2024
+145,Current,106000,Active,4/7/2024
+146,Savings,58000,Active,4/2/2024
+147,Fixed Deposit,265000,Active,3/27/2024
+148,Savings,50000,Active,4/9/2024
+148,Current,100000,Active,4/9/2024
+149,Savings,64000,Active,4/3/2024
+150,Savings,78000,Active,4/15/2024
+151,Savings,46000,Active,3/30/2024
+151,Current,126000,Active,3/30/2024
+152,Savings,75000,Active,4/11/2024
+153,Savings,84000,Active,3/29/2024
+154,Savings,71000,Active,4/18/2024
+154,Fixed Deposit,330000,Active,4/18/2024
+155,Savings,50000,Active,5/9/2024
+156,Current,89000,Active,4/22/2024
+157,Savings,42000,Active,4/3/2024
+158,Savings,65000,Active,4/16/2024
+158,Current,132000,Active,4/16/2024
+159,Savings,54000,Active,4/2/2024
+160,Savings,81000,Active,4/7/2024
+161,Savings,67000,Active,4/4/2024
+161,Current,109000,Active,4/4/2024
+162,Savings,56000,Active,4/12/2024
+163,Fixed Deposit,220000,Active,3/27/2024
+164,Savings,51000,Active,4/11/2024
+165,Savings,49000,Active,3/25/2024
+165,Current,99000,Active,3/25/2024
+166,Savings,76000,Active,4/15/2024
+167,Savings,55000,Active,4/1/2024
+168,Savings,72000,Active,4/14/2024
+168,Current,122000,Active,4/14/2024
+169,Savings,57000,Active,4/6/2024
+170,Savings,50000,Active,4/2/2024
+170,Fixed Deposit,235000,Active,4/2/2024
+171,Savings,66000,Active,4/17/2024
+172,Current,104000,Active,4/9/2024
+173,Savings,75000,Active,4/4/2024
+174,Savings,53000,Active,4/20/2024
+175,Savings,84000,Active,4/8/2024
+175,Current,108000,Active,4/8/2024
+176,Savings,59000,Active,4/3/2024
+177,Fixed Deposit,270000,Active,3/28/2024
+178,Savings,51000,Active,4/10/2024
+178,Current,102000,Active,4/10/2024
+179,Savings,65000,Active,4/4/2024
+180,Savings,79000,Active,4/16/2024
+181,Savings,47000,Active,3/31/2024
+181,Current,128000,Active,3/31/2024
+182,Savings,76000,Active,4/12/2024
+183,Savings,85000,Active,3/30/2024
+184,Savings,72000,Active,4/19/2024
+184,Fixed Deposit,340000,Active,4/19/2024
+185,Savings,51000,Active,5/10/2024
+186,Current,90000,Active,4/23/2024
+187,Savings,43000,Active,4/4/2024
+188,Savings,66000,Active,4/17/2024
+188,Current,134000,Active,4/17/2024
+189,Savings,56000,Active,4/3/2024
+190,Savings,82000,Active,4/8/2024
+191,Savings,68000,Active,4/5/2024
+191,Current,111000,Active,4/5/2024
+192,Savings,57000,Active,4/13/2024
+193,Fixed Deposit,225000,Active,3/28/2024
+194,Savings,52000,Active,4/12/2024
+195,Savings,50000,Active,3/26/2024
+195,Current,100000,Active,3/26/2024
+196,Savings,77000,Active,4/16/2024
+197,Savings,56000,Active,4/2/2024
+198,Savings,73000,Active,4/15/2024
+198,Current,124000,Active,4/15/2024
+199,Savings,58000,Active,4/7/2024
+200,Savings,51000,Active,4/3/2024
+200,Fixed Deposit,240000,Active,4/3/2024
+201,Savings,67000,Active,4/18/2024
+202,Current,106000,Active,4/10/2024
+203,Savings,76000,Active,4/5/2024
+204,Savings,54000,Active,4/21/2024
+205,Savings,85000,Active,4/9/2024
+205,Current,110000,Active,4/9/2024
+206,Savings,60000,Active,4/4/2024
+207,Fixed Deposit,275000,Active,3/29/2024
+208,Savings,52000,Active,4/11/2024
+208,Current,104000,Active,4/11/2024
+209,Savings,66000,Active,4/5/2024
+210,Savings,80000,Active,4/17/2024
+211,Savings,48000,Active,4/1/2024
+211,Current,130000,Active,4/1/2024
+212,Savings,77000,Active,4/13/2024
+213,Savings,86000,Active,4/1/2024
+214,Savings,73000,Active,4/20/2024
+214,Fixed Deposit,350000,Active,4/20/2024
+215,Savings,52000,Active,5/11/2024
+216,Current,91000,Active,4/24/2024
+217,Savings,44000,Active,4/5/2024
+218,Savings,67000,Active,4/18/2024
+218,Current,136000,Active,4/18/2024
+219,Savings,57000,Active,4/4/2024
+220,Savings,83000,Active,4/9/2024
+221,Savings,69000,Active,4/6/2024
+221,Current,113000,Active,4/6/2024
+222,Savings,58000,Active,4/14/2024
+223,Fixed Deposit,230000,Active,3/30/2024
+224,Savings,53000,Active,4/13/2024
+225,Savings,51000,Active,3/27/2024
+225,Current,102000,Active,3/27/2024
+226,Savings,78000,Active,4/17/2024
+227,Savings,57000,Active,4/3/2024
+228,Savings,74000,Active,4/16/2024
+228,Current,126000,Active,4/16/2024
+229,Savings,59000,Active,4/8/2024
+230,Savings,52000,Active,4/4/2024
+230,Fixed Deposit,245000,Active,4/4/2024
+231,Savings,68000,Active,4/19/2024
+232,Current,108000,Active,4/11/2024
+233,Savings,77000,Active,4/6/2024
+234,Savings,55000,Active,4/22/2024
+235,Savings,86000,Active,4/10/2024
+235,Current,112000,Active,4/10/2024
+236,Savings,61000,Active,4/5/2024
+237,Fixed Deposit,280000,Active,3/31/2024
+238,Savings,53000,Active,4/12/2024
+238,Current,106000,Active,4/12/2024
+239,Savings,67000,Active,4/6/2024
+240,Savings,81000,Active,4/18/2024
+241,Savings,49000,Active,4/2/2024
+241,Current,132000,Active,4/2/2024
+242,Savings,78000,Active,4/14/2024
+243,Savings,87000,Active,4/2/2024
+244,Savings,74000,Active,4/21/2024
+244,Fixed Deposit,360000,Active,4/21/2024
+245,Savings,53000,Active,5/12/2024
+246,Current,92000,Active,4/25/2024
+247,Savings,45000,Active,4/6/2024
+248,Savings,68000,Active,4/19/2024
+248,Current,138000,Active,4/19/2024
+249,Savings,58000,Active,4/5/2024
+250,Savings,84000,Active,4/10/2024
+251,Savings,70000,Active,4/7/2024
+251,Current,115000,Active,4/7/2024
+252,Savings,59000,Active,4/15/2024
+253,Fixed Deposit,235000,Active,4/1/2024
+254,Savings,54000,Active,4/14/2024
+255,Savings,52000,Active,3/28/2024
+255,Current,104000,Active,3/28/2024
+256,Savings,79000,Active,4/18/2024
+257,Savings,58000,Active,4/4/2024
+258,Savings,75000,Active,4/17/2024
+258,Current,128000,Active,4/17/2024
+259,Savings,60000,Active,4/9/2024
+260,Savings,53000,Active,4/5/2024
+260,Fixed Deposit,250000,Active,4/5/2024
+261,Savings,69000,Active,4/20/2024
+262,Current,110000,Active,4/12/2024
+263,Savings,78000,Active,4/7/2024
+264,Savings,56000,Active,4/23/2024
+265,Savings,87000,Active,4/11/2024
+265,Current,114000,Active,4/11/2024
+266,Savings,62000,Active,4/6/2024
+267,Fixed Deposit,285000,Active,4/1/2024
+268,Savings,54000,Active,4/13/2024
+268,Current,108000,Active,4/13/2024
+269,Savings,68000,Active,4/7/2024
+270,Savings,82000,Active,4/19/2024
+271,Savings,50000,Active,4/3/2024
+271,Current,134000,Active,4/3/2024
+272,Savings,79000,Active,4/15/2024
+273,Savings,88000,Active,4/3/2024
+274,Savings,75000,Active,4/22/2024
+274,Fixed Deposit,370000,Active,4/22/2024
+275,Savings,54000,Active,5/13/2024
+276,Current,93000,Active,4/26/2024
+277,Savings,46000,Active,4/7/2024
+278,Savings,69000,Active,4/20/2024
+278,Current,140000,Active,4/20/2024
+279,Savings,59000,Active,4/6/2024
+280,Savings,85000,Active,4/11/2024
+281,Savings,71000,Active,4/8/2024
+281,Current,118000,Active,4/8/2024
+282,Savings,60000,Active,4/14/2024
+283,Fixed Deposit,290000,Active,4/2/2024
+284,Savings,55000,Active,4/12/2024
+284,Current,110000,Active,4/12/2024
+285,Savings,70000,Active,4/7/2024
+286,Savings,83000,Active,4/19/2024
+287,Savings,51000,Active,4/5/2024
+287,Current,136000,Active,4/5/2024
+288,Savings,68000,Active,4/20/2024
+289,Savings,60000,Active,4/6/2024
+290,Savings,86000,Active,4/11/2024
+291,Savings,72000,Active,4/9/2024
+291,Current,120000,Active,4/9/2024
+292,Savings,61000,Active,4/15/2024
+293,Fixed Deposit,295000,Active,4/3/2024
+294,Savings,56000,Active,4/13/2024
+294,Current,112000,Active,4/13/2024
+295,Savings,69000,Active,4/7/2024
+296,Savings,84000,Active,4/12/2024
+297,Savings,52000,Active,4/8/2024
+297,Current,138000,Active,4/8/2024
+298,Savings,70000,Active,4/20/2024
+299,Savings,61000,Active,4/6/2024
+300,Savings,87000,Active,4/11/2024

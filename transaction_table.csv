@@ -1,0 +1,309 @@
+Account_ID,Transaction_Type,Amount,Transaction_Date,Description
+1,Deposit,15000,2/5/2024 10:45,Initial deposit
+1,Withdrawal,5000,2/10/2024 14:22,ATM withdrawal
+1,Deposit,20000,2/20/2024 9:00,Salary deposit
+2,Deposit,30000,2/22/2024 11:10,Cheque deposit
+2,Withdrawal,15000,3/2/2024 13:45,Transfer to savings
+3,Deposit,25000,3/11/2024 10:15,Online transfer
+3,Withdrawal,5000,3/12/2024 16:00,ATM withdrawal
+4,Deposit,10000,2/19/2024 12:30,Cash deposit
+4,Deposit,5000,2/25/2024 9:00,Bonus
+5,Withdrawal,20000,3/10/2024 14:00,Rent payment
+6,Deposit,100000,3/1/2024 9:00,Investment funding
+6,Withdrawal,50000,3/20/2024 13:00,Transfer to current
+7,Deposit,20000,4/10/2024 10:00,Salary
+8,Withdrawal,7000,4/13/2024 16:00,ATM withdrawal
+9,Deposit,5000,3/25/2024 10:00,Initial deposit
+10,Deposit,80000,4/5/2024 11:00,Bonus
+11,Withdrawal,25000,4/15/2024 14:00,Transfer
+12,Deposit,100000,4/25/2024 12:30,Cheque deposit
+13,Withdrawal,10000,4/27/2024 9:45,Bills
+14,Deposit,30000,5/1/2024 10:30,Salary
+14,Withdrawal,8000,5/3/2024 14:15,Grocery
+15,Deposit,45000,5/5/2024 9:00,Bonus
+16,Withdrawal,12000,5/7/2024 15:00,Utility payment
+17,Deposit,25000,5/10/2024 10:00,Salary
+17,Withdrawal,7000,5/12/2024 16:00,ATM withdrawal
+18,Deposit,35000,5/14/2024 11:30,Online transfer
+19,Withdrawal,15000,5/16/2024 13:45,Rent
+20,Deposit,50000,5/18/2024 9:00,Salary
+21,Withdrawal,5000,5/20/2024 12:00,Grocery
+22,Deposit,60000,5/22/2024 10:15,Bonus
+23,Withdrawal,20000,5/24/2024 14:30,Transfer
+24,Deposit,70000,5/26/2024 9:45,Cheque deposit
+25,Withdrawal,10000,5/28/2024 16:00,Bills
+26,Deposit,30000,5/30/2024 10:00,Salary
+27,Withdrawal,5000,6/1/2024 14:15,ATM withdrawal
+28,Deposit,45000,6/3/2024 11:00,Bonus
+29,Withdrawal,12000,6/5/2024 13:30,Grocery
+30,Deposit,25000,6/7/2024 9:00,Online transfer
+31,Withdrawal,7000,6/9/2024 15:00,ATM withdrawal
+32,Deposit,50000,6/11/2024 10:30,Salary
+33,Withdrawal,20000,6/13/2024 16:00,Rent
+34,Deposit,35000,6/15/2024 9:15,Bonus
+35,Withdrawal,10000,6/17/2024 14:45,Utility payment
+36,Deposit,40000,6/19/2024 11:00,Online transfer
+37,Withdrawal,5000,6/21/2024 13:00,ATM withdrawal
+38,Deposit,60000,6/23/2024 9:30,Salary
+39,Withdrawal,15000,6/25/2024 15:30,Bills
+40,Deposit,45000,6/27/2024 10:00,Bonus
+41,Withdrawal,20000,6/29/2024 14:00,Rent payment
+42,Deposit,55000,7/1/2024 10:30,Salary
+43,Withdrawal,7000,7/3/2024 16:15,Grocery
+44,Deposit,30000,7/5/2024 11:00,Bonus
+45,Withdrawal,12000,7/7/2024 13:45,Utility payment
+46,Deposit,40000,7/9/2024 9:15,Online transfer
+47,Withdrawal,5000,7/11/2024 15:30,ATM withdrawal
+48,Deposit,60000,7/13/2024 10:00,Salary
+49,Withdrawal,15000,7/15/2024 14:45,Bills
+50,Deposit,45000,7/17/2024 9:30,Bonus
+51,Withdrawal,10000,7/19/2024 16:00,Rent
+52,Deposit,35000,7/21/2024 10:15,Salary
+53,Withdrawal,8000,7/23/2024 14:30,Grocery
+54,Deposit,40000,7/25/2024 9:45,Bonus
+55,Withdrawal,12000,7/27/2024 15:00,Utility payment
+56,Deposit,50000,7/29/2024 10:00,Online transfer
+57,Withdrawal,7000,7/31/2024 13:15,ATM withdrawal
+58,Deposit,60000,8/2/2024 11:00,Salary
+59,Withdrawal,15000,8/4/2024 14:45,Bills
+60,Deposit,45000,8/6/2024 9:30,Bonus
+61,Withdrawal,20000,8/8/2024 15:00,Rent
+62,Deposit,55000,8/10/2024 10:30,Salary
+63,Withdrawal,7000,8/12/2024 16:15,Grocery
+64,Deposit,30000,8/14/2024 11:00,Bonus
+65,Withdrawal,12000,8/16/2024 13:45,Utility payment
+66,Deposit,40000,8/18/2024 9:15,Online transfer
+67,Withdrawal,5000,8/20/2024 15:30,ATM withdrawal
+68,Deposit,60000,8/22/2024 10:00,Salary
+69,Withdrawal,15000,8/24/2024 14:45,Bills
+70,Deposit,45000,8/26/2024 9:30,Bonus
+71,Withdrawal,10000,8/28/2024 16:00,Rent
+72,Deposit,35000,8/30/2024 10:15,Salary
+73,Withdrawal,8000,9/1/2024 14:30,Grocery
+74,Deposit,40000,9/3/2024 9:45,Bonus
+75,Withdrawal,12000,9/5/2024 15:00,Utility payment
+76,Deposit,50000,9/7/2024 10:00,Online transfer
+77,Withdrawal,7000,9/9/2024 13:15,ATM withdrawal
+78,Deposit,60000,9/11/2024 11:00,Salary
+79,Withdrawal,15000,9/13/2024 14:45,Bills
+80,Deposit,45000,9/15/2024 9:30,Bonus
+81,Withdrawal,20000,9/17/2024 15:00,Rent
+82,Deposit,55000,9/19/2024 10:30,Salary
+83,Withdrawal,7000,9/21/2024 16:15,Grocery
+84,Deposit,30000,9/23/2024 11:00,Bonus
+85,Withdrawal,12000,9/25/2024 13:45,Utility payment
+86,Deposit,40000,9/27/2024 9:15,Online transfer
+87,Withdrawal,5000,9/29/2024 15:30,ATM withdrawal
+88,Deposit,60000,10/1/2024 10:00,Salary
+89,Withdrawal,15000,10/3/2024 14:45,Bills
+90,Deposit,45000,10/5/2024 9:30,Bonus
+91,Withdrawal,10000,10/7/2024 16:00,Rent payment
+92,Deposit,35000,10/9/2024 10:15,Salary
+93,Withdrawal,8000,10/11/2024 14:30,Grocery
+94,Deposit,40000,10/13/2024 9:45,Bonus
+95,Withdrawal,12000,10/15/2024 15:00,Utility payment
+96,Deposit,50000,10/17/2024 10:00,Online transfer
+97,Withdrawal,7000,10/19/2024 13:15,ATM withdrawal
+98,Deposit,60000,10/21/2024 11:00,Salary
+99,Withdrawal,15000,10/23/2024 14:45,Bills
+100,Deposit,45000,10/25/2024 9:30,Bonus
+101,Withdrawal,20000,10/27/2024 15:00,Rent
+102,Deposit,55000,10/29/2024 10:30,Salary
+103,Withdrawal,7000,10/31/2024 16:15,Grocery
+104,Deposit,30000,11/2/2024 11:00,Bonus
+105,Withdrawal,12000,11/4/2024 13:45,Utility payment
+106,Deposit,40000,11/6/2024 9:15,Online transfer
+107,Withdrawal,5000,11/8/2024 15:30,ATM withdrawal
+108,Deposit,60000,11/10/2024 10:00,Salary
+109,Withdrawal,15000,11/12/2024 14:45,Bills
+110,Deposit,45000,11/14/2024 9:30,Bonus
+111,Withdrawal,10000,11/16/2024 16:00,Rent
+112,Deposit,35000,11/18/2024 10:15,Salary
+113,Withdrawal,8000,11/20/2024 14:30,Grocery
+114,Deposit,40000,11/22/2024 9:45,Bonus
+115,Withdrawal,12000,11/24/2024 15:00,Utility payment
+116,Deposit,50000,11/26/2024 10:00,Online transfer
+117,Withdrawal,7000,11/28/2024 13:15,ATM withdrawal
+118,Deposit,60000,11/30/2024 11:00,Salary
+119,Withdrawal,15000,12/2/2024 14:45,Bills
+120,Deposit,45000,12/4/2024 9:30,Bonus
+121,Withdrawal,20000,12/6/2024 15:00,Rent
+122,Deposit,55000,12/8/2024 10:30,Salary
+123,Withdrawal,7000,12/10/2024 16:15,Grocery
+124,Deposit,30000,12/12/2024 11:00,Bonus
+125,Withdrawal,12000,12/14/2024 13:45,Utility payment
+126,Deposit,40000,12/16/2024 9:15,Online transfer
+127,Withdrawal,5000,12/18/2024 15:30,ATM withdrawal
+128,Deposit,60000,12/20/2024 10:00,Salary
+129,Withdrawal,15000,12/22/2024 14:45,Bills
+130,Deposit,45000,12/24/2024 9:30,Bonus
+131,Withdrawal,10000,12/26/2024 16:00,Rent
+132,Deposit,35000,12/28/2024 10:15,Salary
+133,Withdrawal,8000,12/30/2024 14:30,Grocery
+134,Deposit,40000,12/31/2024 9:45,Bonus
+135,Withdrawal,12000,1/2/2025 15:00,Utility payment
+136,Deposit,50000,1/4/2025 10:00,Online transfer
+137,Withdrawal,7000,1/6/2025 13:15,ATM withdrawal
+138,Deposit,60000,1/8/2025 11:00,Salary
+139,Withdrawal,15000,1/10/2025 14:45,Bills
+140,Deposit,45000,1/12/2025 9:30,Bonus
+141,Withdrawal,20000,1/14/2025 15:00,Rent
+142,Deposit,55000,1/16/2025 10:30,Salary
+143,Withdrawal,7000,1/18/2025 16:15,Grocery
+144,Deposit,30000,1/20/2025 11:00,Bonus
+145,Withdrawal,12000,1/22/2025 13:45,Utility payment
+146,Deposit,40000,1/24/2025 9:15,Online transfer
+147,Withdrawal,5000,1/26/2025 15:30,ATM withdrawal
+148,Deposit,60000,1/28/2025 10:00,Salary
+149,Withdrawal,15000,1/30/2025 14:45,Bills
+150,Deposit,45000,2/1/2025 9:30,Bonus
+151,Withdrawal,10000,2/3/2025 16:00,Rent
+152,Deposit,35000,2/5/2025 10:15,Salary
+153,Withdrawal,8000,2/7/2025 14:30,Grocery
+154,Deposit,40000,2/9/2025 9:45,Bonus
+155,Withdrawal,12000,2/11/2025 15:00,Utility payment
+156,Deposit,50000,2/13/2025 10:00,Online transfer
+157,Withdrawal,7000,2/15/2025 13:15,ATM withdrawal
+158,Deposit,60000,2/17/2025 11:00,Salary
+159,Withdrawal,15000,2/19/2025 14:45,Bills
+160,Deposit,45000,2/21/2025 9:30,Bonus
+161,Withdrawal,20000,2/23/2025 15:00,Rent
+162,Deposit,55000,2/25/2025 10:30,Salary
+163,Withdrawal,7000,2/27/2025 16:15,Grocery
+164,Deposit,30000,3/1/2025 11:00,Bonus
+165,Withdrawal,12000,3/3/2025 13:45,Utility payment
+166,Deposit,40000,3/5/2025 9:15,Online transfer
+167,Withdrawal,5000,3/7/2025 15:30,ATM withdrawal
+168,Deposit,60000,3/9/2025 10:00,Salary
+169,Withdrawal,15000,3/11/2025 14:45,Bills
+170,Deposit,45000,3/13/2025 9:30,Bonus
+171,Withdrawal,10000,3/15/2025 16:00,Rent
+172,Deposit,35000,3/17/2025 10:15,Salary
+173,Withdrawal,8000,3/19/2025 14:30,Grocery
+174,Deposit,40000,3/21/2025 9:45,Bonus
+175,Withdrawal,12000,3/23/2025 15:00,Utility payment
+176,Deposit,50000,3/25/2025 10:00,Online transfer
+177,Withdrawal,7000,3/27/2025 13:15,ATM withdrawal
+178,Deposit,60000,3/29/2025 11:00,Salary
+179,Withdrawal,15000,3/31/2025 14:45,Bills
+180,Deposit,45000,4/2/2025 9:30,Bonus
+181,Withdrawal,20000,4/4/2025 15:00,Rent
+182,Deposit,55000,4/6/2025 10:30,Salary
+183,Withdrawal,7000,4/8/2025 16:15,Grocery
+184,Deposit,30000,4/10/2025 11:00,Bonus
+185,Withdrawal,12000,4/12/2025 13:45,Utility payment
+186,Deposit,40000,4/14/2025 9:15,Online transfer
+187,Withdrawal,5000,4/16/2025 15:30,ATM withdrawal
+188,Deposit,60000,4/18/2025 10:00,Salary
+189,Withdrawal,15000,4/20/2025 14:45,Bills
+190,Deposit,45000,4/22/2025 9:30,Bonus
+191,Withdrawal,10000,4/24/2025 16:00,Rent
+192,Deposit,35000,4/26/2025 10:15,Salary
+193,Withdrawal,8000,4/28/2025 14:30,Grocery
+194,Deposit,40000,4/30/2025 9:45,Bonus
+195,Withdrawal,12000,5/2/2025 15:00,Utility payment
+196,Deposit,50000,5/4/2025 10:00,Online transfer
+197,Withdrawal,7000,5/6/2025 13:15,ATM withdrawal
+198,Deposit,60000,5/8/2025 11:00,Salary
+199,Withdrawal,15000,5/10/2025 14:45,Bills
+200,Deposit,45000,5/12/2025 9:30,Bonus
+201,Withdrawal,20000,5/14/2025 15:00,Rent
+202,Deposit,55000,5/16/2025 10:30,Salary
+203,Withdrawal,7000,5/18/2025 16:15,Grocery
+204,Deposit,30000,5/20/2025 11:00,Bonus
+205,Withdrawal,12000,5/22/2025 13:45,Utility payment
+206,Deposit,40000,5/24/2025 9:15,Online transfer
+207,Withdrawal,5000,5/26/2025 15:30,ATM withdrawal
+208,Deposit,60000,5/28/2025 10:00,Salary
+209,Withdrawal,15000,5/30/2025 14:45,Bills
+210,Deposit,45000,6/1/2025 9:30,Bonus
+211,Withdrawal,10000,6/3/2025 16:00,Rent
+212,Deposit,35000,6/5/2025 10:15,Salary
+213,Withdrawal,8000,6/7/2025 14:30,Grocery
+214,Deposit,40000,6/9/2025 9:45,Bonus
+215,Withdrawal,12000,6/11/2025 15:00,Utility payment
+216,Deposit,50000,6/13/2025 10:00,Online transfer
+217,Withdrawal,7000,6/15/2025 13:15,ATM withdrawal
+218,Deposit,60000,6/17/2025 11:00,Salary
+219,Withdrawal,15000,6/19/2025 14:45,Bills
+220,Deposit,45000,6/21/2025 9:30,Bonus
+221,Withdrawal,20000,6/23/2025 15:00,Rent
+222,Deposit,55000,6/25/2025 10:30,Salary
+223,Withdrawal,7000,6/27/2025 16:15,Grocery
+224,Deposit,30000,6/29/2025 11:00,Bonus
+225,Withdrawal,12000,7/1/2025 13:45,Utility payment
+226,Deposit,40000,7/3/2025 9:15,Online transfer
+227,Withdrawal,5000,7/5/2025 15:30,ATM withdrawal
+228,Deposit,60000,7/7/2025 10:00,Salary
+229,Withdrawal,15000,7/9/2025 14:45,Bills
+230,Deposit,45000,7/11/2025 9:30,Bonus
+231,Withdrawal,10000,7/13/2025 16:00,Rent
+232,Deposit,35000,7/15/2025 10:15,Salary
+233,Withdrawal,8000,7/17/2025 14:30,Grocery
+234,Deposit,40000,7/19/2025 9:45,Bonus
+235,Withdrawal,12000,7/21/2025 15:00,Utility payment
+236,Deposit,50000,7/23/2025 10:00,Online transfer
+237,Withdrawal,7000,7/25/2025 13:15,ATM withdrawal
+238,Deposit,60000,7/27/2025 11:00,Salary
+239,Withdrawal,15000,7/29/2025 14:45,Bills
+240,Deposit,45000,7/31/2025 9:30,Bonus
+241,Withdrawal,20000,8/2/2025 15:00,Rent
+242,Deposit,55000,8/4/2025 10:30,Salary
+243,Withdrawal,7000,8/6/2025 16:15,Grocery
+244,Deposit,30000,8/8/2025 11:00,Bonus
+245,Withdrawal,12000,8/10/2025 13:45,Utility payment
+246,Deposit,40000,8/12/2025 9:15,Online transfer
+247,Withdrawal,5000,8/14/2025 15:30,ATM withdrawal
+248,Deposit,60000,8/16/2025 10:00,Salary
+249,Withdrawal,15000,8/18/2025 14:45,Bills
+250,Deposit,45000,8/20/2025 9:30,Bonus
+251,Withdrawal,10000,8/22/2025 16:00,Rent
+252,Deposit,35000,8/24/2025 10:15,Salary
+253,Withdrawal,8000,8/26/2025 14:30,Grocery
+254,Deposit,40000,8/28/2025 9:45,Bonus
+255,Withdrawal,12000,8/30/2025 15:00,Utility payment
+256,Deposit,50000,9/1/2025 10:00,Online transfer
+257,Withdrawal,7000,9/3/2025 13:15,ATM withdrawal
+258,Deposit,60000,9/5/2025 11:00,Salary
+259,Withdrawal,15000,9/7/2025 14:45,Bills
+260,Deposit,45000,9/9/2025 9:30,Bonus
+261,Withdrawal,20000,9/11/2025 15:00,Rent
+262,Deposit,55000,9/13/2025 10:30,Salary
+263,Withdrawal,7000,9/15/2025 16:15,Grocery
+264,Deposit,30000,9/17/2025 11:00,Bonus
+265,Withdrawal,12000,9/19/2025 13:45,Utility payment
+266,Deposit,40000,9/21/2025 9:15,Online transfer
+267,Withdrawal,5000,9/23/2025 15:30,ATM withdrawal
+268,Deposit,60000,9/25/2025 10:00,Salary
+269,Withdrawal,15000,9/27/2025 14:45,Bills
+270,Deposit,45000,9/29/2025 9:30,Bonus
+271,Withdrawal,10000,10/1/2025 16:00,Rent
+272,Deposit,35000,10/3/2025 10:15,Salary
+273,Withdrawal,8000,10/5/2025 14:30,Grocery
+274,Deposit,40000,10/7/2025 9:45,Bonus
+275,Withdrawal,12000,10/9/2025 15:00,Utility payment
+276,Deposit,50000,10/11/2025 10:00,Online transfer
+277,Withdrawal,7000,10/13/2025 13:15,ATM withdrawal
+278,Deposit,60000,10/15/2025 11:00,Salary
+279,Withdrawal,15000,10/17/2025 14:45,Bills
+280,Deposit,45000,10/19/2025 9:30,Bonus
+281,Withdrawal,20000,10/21/2025 15:00,Rent
+282,Deposit,55000,10/23/2025 10:30,Salary
+283,Withdrawal,7000,10/25/2025 16:15,Grocery
+284,Deposit,30000,10/27/2025 11:00,Bonus
+285,Withdrawal,12000,10/29/2025 13:45,Utility payment
+286,Deposit,40000,10/31/2025 9:15,Online transfer
+287,Withdrawal,5000,11/2/2025 15:30,ATM withdrawal
+288,Deposit,60000,11/4/2025 10:00,Salary
+289,Withdrawal,15000,11/6/2025 14:45,Bills
+290,Deposit,45000,11/8/2025 9:30,Bonus
+291,Withdrawal,10000,11/10/2025 16:00,Rent
+292,Deposit,35000,11/12/2025 10:15,Salary
+293,Withdrawal,8000,11/14/2025 14:30,Grocery
+294,Deposit,40000,11/16/2025 9:45,Bonus
+295,Withdrawal,12000,11/18/2025 15:00,Utility payment
+296,Deposit,50000,11/20/2025 10:00,Online transfer
+297,Withdrawal,7000,11/22/2025 13:15,ATM withdrawal
+298,Deposit,60000,11/24/2025 11:00,Salary
+299,Withdrawal,15000,11/26/2025 14:45,Bills
+300,Deposit,45000,11/28/2025 9:30,Bonus
