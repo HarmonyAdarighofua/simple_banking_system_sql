@@ -8,12 +8,12 @@ Modern banks manage large amounts of customer and financial data, including cust
 The problem this project addresses is how to design a relational database system that can efficiently manage banking operations, including tracking customers, managing multiple accounts per customer, and recording financial transactions.
 
 # The system must allow users to:
-•	Store and manage customer information
-•	Maintain multiple bank accounts for each customer
-•	Record and track deposits, withdrawals, and transfers
-•	Retrieve and analyze financial data using SQL queries
-•	Apply conditions to identify patterns such as high-value accounts, specific transaction ranges, and regional customer distributions
-By designing and querying this database, the project demonstrates how SQL can be used to simulate real-world banking data management and support data-driven decision-making.
+#	Store and manage customer information
+#	Maintain multiple bank accounts for each customer
+#	Record and track deposits, withdrawals, and transfers
+#	Retrieve and analyze financial data using SQL queries
+#	Apply conditions to identify patterns such as high-value accounts, specific transaction ranges, and regional customer distributions
+# By designing and querying this database, the project demonstrates how SQL can be used to simulate real-world banking data management and support data-driven decision-making.
 
 ## Technologies Used
 •	MySQL
